@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Operations Research, Robotic Process Automation and Backend Development - I'm not sure yet what I want to specialize in.
 - 🌱 I’m currently learning Python, Javascript and SQL.
 - 💞️ I’m looking for work, but I have much to learn - advice is always welcome!
-- 📫 Follow my journey on my blog: https://malincodes.blogspot.com/
+- 📫 Follow my journey on my blog: https://malinwrites.com
 
 
 
